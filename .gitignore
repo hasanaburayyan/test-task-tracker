@@ -5,6 +5,9 @@ node_modules/
 target/
 */target/
 
+vcs.xml
+.idea/*
+
 .DS_Store
 */.DS_Store
 */.idea/
